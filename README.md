@@ -12,3 +12,7 @@ To provide a central hub to organize and manage your current missions (goals)
 - Operations (middle layer, medium term goals to accomplish mission) - 1-6 months
 - Objectives (middle layer, short term goals to accomplish operations) - 1-2 weeks
 - Taks (bottom layer, short term (daily) goals to accomplish objectives) - 1 day
+
+## Stack
+
+- MERN stack
