@@ -22,3 +22,9 @@ To provide a central hub to organize and manage your current missions (goals)
 ## Stack
 
 - MERN stack
+
+## Components
+
+- Global: Header, Footer, Card, Blurb, Action Widget, Form
+- Pages: Home, View/Edit, Login
+- Other: Mission/Op/Obj/Task - home & view/edit
