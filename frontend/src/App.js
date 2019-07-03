@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "./global/header";
 import Card from "./global/card";
+import Blurb from "./global/blurb";
 import "./App.css";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <Header />
       <Card title="Card" />
+      <Blurb title="Blurb" blurb="blurby mcblurberson" />
     </div>
   );
 }
