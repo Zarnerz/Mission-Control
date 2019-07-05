@@ -1,8 +1,15 @@
 import React, { Component } from "react";
+import Header from "../../global/header";
+import Card from "../../global/card";
 
 class Home extends Component {
   render() {
-    return <div>HOME</div>;
+    return (
+      <div>
+        <Header />
+        <Card title="title" />
+      </div>
+    );
   }
 }
 
