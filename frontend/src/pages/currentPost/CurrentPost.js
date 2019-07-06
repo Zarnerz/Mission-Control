@@ -6,7 +6,6 @@ class CurrentPost extends Component {
   render() {
     return (
       <div>
-        <Header />
         <Blurb title="Title" blurb="Blurby McBlurberson" />
       </div>
     );
