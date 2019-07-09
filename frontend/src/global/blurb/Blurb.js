@@ -2,6 +2,7 @@ import React, { Component } from "react";
 
 class Blurb extends Component {
   render() {
+    console.log(this.props);
     return (
       <section style={blurbContainerStyle}>
         <h3 style={blurbH3Style}>{this.props.title}</h3>
